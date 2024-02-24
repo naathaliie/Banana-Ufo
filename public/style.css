@@ -1,0 +1,26 @@
+:root {
+	--vanilla: #f7e9a1;
+	--bole: #774936;
+	--night: #0d160b;
+	--rose-pink: #ff62cd;
+	--aqua: #3bf4fb;
+
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+/* *{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+} */
+
+body {
+	background-color: var(--vanilla);
+	
+	
+}
+
+
+

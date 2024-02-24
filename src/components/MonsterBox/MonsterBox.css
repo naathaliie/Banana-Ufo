@@ -1,0 +1,9 @@
+.monsterBoxSection{
+    width: auto;
+    height: auto;
+    background-color: #ebdb8e;
+    display: flex;
+    gap: 10px;
+    padding: 1rem;
+   
+}

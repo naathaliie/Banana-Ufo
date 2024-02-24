@@ -1,0 +1,23 @@
+.leButtones{
+    width: 5rem;
+    height: 2rem;
+    border-radius: 5px;
+    border-style: none;
+    margin: 3px;
+
+        &.readMoreButt{
+            background-color: var(--aqua);
+        }
+
+        &.clickMeButt{
+            background-color: var(--rose-pink);
+            color: rgb(247, 231, 234);
+            font-family: 'Courier New', Courier, monospace;
+            width: auto;
+        }
+
+        &.surpriseButt{
+            background-color: rebeccapurple;
+            color: white;
+        }
+}

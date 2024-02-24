@@ -1,0 +1,10 @@
+.rubrik {
+	padding: 1.5rem;
+	width: 50%;
+	border: 5px solid var(--aqua);
+	border-radius: 2rem;
+	box-shadow: 0 0 0 3px var(--rose-pink);
+	background-color: var(--rose-pink);
+	text-align: center;
+	color: var(--vanilla);
+}

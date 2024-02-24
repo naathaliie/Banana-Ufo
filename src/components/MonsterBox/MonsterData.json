@@ -1,0 +1,28 @@
+
+[
+    {
+        "id": 0,
+        "name": "miniMonster",
+        "eyes": 3,
+        "color": "pink"
+    },
+    {
+        "id": 1,
+        "name": "theMonster",
+        "eyes": 5,
+        "color": "green"
+    },
+    {
+        "id": 2,
+        "name": "theMoMoMonster",
+        "eyes": 17,
+        "color": "orange"
+    },
+    {
+        "id": 3,
+        "name": "UnicornAndRainbowDeathCore",
+        "eyes": 666,
+        "color": "fire"
+    }
+]
+

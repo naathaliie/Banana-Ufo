@@ -1,0 +1,27 @@
+[
+    {
+        "image": "./images/hedgehog.jpg",
+        "animal": "Birthday boii",
+        "cutenessLevel": "15/10"
+    },
+    {
+        "image": "./images/babyHog.jpg",
+        "animal": "kindOfAnimal",
+        "cutenessLevel": "9/10"
+    },
+    {
+        "image": "./images/futureflyingHog.jpg",
+        "animal": "kindOfAnimal",
+        "cutenessLevel": "8/10"
+    },
+    {
+        "image": "./images/partyHog.jpg",
+        "animal": "kindOfAnimal",
+        "cutenessLevel": "7/10"
+    },
+    {
+        "image": "./images/coffeeHog.jpg",
+        "animal": "kindOfAnimal",
+        "cutenessLevel": "6/10"
+    }
+]
